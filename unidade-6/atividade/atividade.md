@@ -1,25 +1,38 @@
-**Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)**
-**Campus Baturité**
-**Curso Técnico Subsequente em Informática para Internet**
+<p align="center">
+  <strong>
+    Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br>
+    Campus Baturité <br>
+    Curso Técnico Subsequente em Informática para Internet
+  </strong>
+</p>
 
-**Atividade da Unidade 6 da Disciplina de Lógica de Programação**
+<p align="center">
+  <strong>
+    Atividade da Unidade 6 da Disciplina de Lógica de Programação
+  </strong>
+</p>
 
-**Baturité-CE**
-**2024**
+<p align="center">
+  <strong>
+    Baturité-CE <br>
+    2024
+  </strong>
+</p>
 
-**Identificação do Aluno**
+<p align="center">
+  <strong>
+    Identificação do Aluno
+  </strong>
+</p>
 
 **Nome:** Pedro Henrique Marinho Euzebio
+**Professor(a):** Jefferson Lourenço Gurguri
 **Curso:** Técnico Subsequente em Informática para Internet
 **Turma:** 2024.1
 
-**1. Escreva um programa que crie uma matriz 3x3 com os valores de 1 a 9 e imprima seus valores.**
-
-Resposta:
+**1. Escreva um programa que crie uma matriz 3x3 com os valores de 1 a 9 e imprima seus valores**
 
 ```js
-// Escreva um programa que crie uma matriz 3x3 com os valores de 1 a 9 e imprima seus valores.
-
 function criaMatriz3Por3() {
   let matriz = [
     [1, 2, 3],
@@ -35,13 +48,9 @@ function criaMatriz3Por3() {
 criaMatriz3Por3();
 ```
 
-**2. Escreva um programa que leia uma matriz 2x2 de valores inteiros informados pelo usuário e imprima sua transposta.**
-
-Resposta:
+**2. Escreva um programa que leia uma matriz 2x2 de valores inteiros informados pelo usuário e imprima sua transposta**
 
 ```js
-// Escreva um programa que leia uma matriz 2x2 de valores inteiros informados pelo usuário e imprima sua transposta.
-
 function transpostaMatriz2Por2() {
   let matriz = [];
 
@@ -71,13 +80,9 @@ function transpostaMatriz2Por2() {
 transpostaMatriz2Por2();
 ```
 
-**3. Escreva um programa que leia duas matrizes 3x3 de valores inteiros informadas pelo usuário e imprima a soma de seus valores.**
-
-Resposta:
+**3. Escreva um programa que leia duas matrizes 3x3 de valores inteiros informadas pelo usuário e imprima a soma de seus valores**
 
 ```js
-// Escreva um programa que leia duas matrizes 3x3 de valores inteiros informadas pelo usuário e imprima a soma de seus valores.
-
 function somaMatrizes3Por3() {
   let matriz1 = [];
   let matriz2 = [];
