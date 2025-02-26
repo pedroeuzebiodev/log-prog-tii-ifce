@@ -1,20 +1,33 @@
-**Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)**
+<p align="center">
+  <strong>
+    Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br>
+    Campus Baturité <br>
+    Curso Técnico Subsequente em Informática para Internet
+  </strong>
+</p>
 
-**Campus Baturité**
+<p align="center">
+  <strong>
+    Atividade da Unidade 1 da Disciplina de Lógica de Programação
+  </strong>
+</p>
 
-**Curso Técnico Subsequente em Informática para Internet**
+<p align="center">
+  <strong>
+    Baturité-CE <br>
+    2024
+  </strong>
+</p>
 
-**Atividade da Unidade 1 da Disciplina de Lógica de Programação**
+<p align="center">
+  <strong>
+    Identificação do Aluno
+  </strong>
+</p>
 
-**Baturité-CE** <br>
-**2024**
-
-**Identificação do Aluno**
-
-**Nome completo:** Pedro Henrique Marinho Euzebio
-
+**Nome:** Pedro Henrique Marinho Euzebio
+**Professor(a):** Jefferson Lourenço Gurguri
 **Curso:** Técnico Subsequente em Informática para Internet
-
 **Turma:** 2024.1
 
 1. **Explique o que é um algoritmo**
@@ -31,10 +44,10 @@ Resposta: Fazer um café, atravessar a rua, se levantar da cama.
   <summary>Linguagem Natural</summary>
   <ul>
     <li>
-      Vantagens: Fácil de entender, flexível.
+      Vantagens: Fácil de entender, flexível
     </li>
     <li>
-      Desvantagens: Pode ser ambígua e imprecisa, difícil de traduzir para código real.
+      Desvantagens: Pode ser ambígua e imprecisa, difícil de traduzir para código real
     </li>
   </ul>
 </details>
@@ -43,10 +56,10 @@ Resposta: Fazer um café, atravessar a rua, se levantar da cama.
   <summary>Diagramas de Fluxo</summary>
   <ul>
     <li>
-      Vantagens: Visualização clara, fácil identificação de estruturas lógicas.
+      Vantagens: Visualização clara, fácil identificação de estruturas lógicas
     </li>
     <li>
-      Desvantagens: Difícil para algoritmos complexos, difícil de modificar, complicado para representar detalhes.
+      Desvantagens: Difícil para algoritmos complexos, difícil de modificar, complicado para representar detalhes
     </li>
   </ul>
 </details>
@@ -55,17 +68,17 @@ Resposta: Fazer um café, atravessar a rua, se levantar da cama.
   <summary>Pseudocódigo</summary>
   <ul>
     <li>
-      Vantagens: Flexibilidade e precisão, fácil de traduzir para código real, abstrai detalhes de implementação.
+      Vantagens: Flexibilidade e precisão, fácil de traduzir para código real, abstrai detalhes de implementação
     </li>
     <li>
-      Desvantagens: Exige algum conhecimento técnico, interpretação variável, potencial para ambiguidade.
+      Desvantagens: Exige algum conhecimento técnico, interpretação variável, potencial para ambiguidade
     </li>
   </ul>
 </details>
 
 4. **Escreva, utilizando pseudocódigo, um algoritmo para cada uma das situações a seguir:**
 
-**a. Trocar uma torneira:**
+**Trocar uma torneira:**
 
 ```js
 function trocarTorneira() {
@@ -90,7 +103,7 @@ function trocarTorneira() {
 trocarTorneira();
 ```
 
-**b. Trocar uma lâmpada:**
+**Trocar uma lâmpada:**
 
 ```js
 function trocarLampada() {
@@ -117,7 +130,7 @@ trocarLampada();
 
 5. **Escreva, utilizando pseudocódigo, um algoritmo para cada uma das situações a seguir**
 
-**a. Escreva um algoritmo que receba dois números e realize a soma:**
+**Escreva um algoritmo que receba dois números e realize a soma:**
 
 ```js
 function somarDoisNumeros(numero1, numero2) {
@@ -134,7 +147,7 @@ const resultado = somarDoisNumeros(numero1, numero2);
 alert(`A soma de ${numero1} e ${numero2} é ${resultado}.`);
 ```
 
-**b. Escreva um algoritmo que receba um número e retorne o seu sucessor e o seu antecessor:**
+**Escreva um algoritmo que receba um número e retorne o seu sucessor e o seu antecessor:**
 
 ```js
 function obterSucessorEAntecessor(numero) {
@@ -156,7 +169,7 @@ alert(
 );
 ```
 
-**c. Faça um algoritmo que receba três notas, calcule e mostre a média aritmética:**
+**Faça um algoritmo que receba três notas, calcule e mostre a média aritmética:**
 
 ```js
 function calcularMediaAritmetica(nota1, nota2, nota3) {
@@ -178,7 +191,7 @@ alert(
 );
 ```
 
-**d. Escreva um algoritmo que receba um número e retorne se esse número é par ou ímpar:**
+**Escreva um algoritmo que receba um número e retorne se esse número é par ou ímpar:**
 
 ```js
 function verificarParOuImpar(numero) {
